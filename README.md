@@ -13,17 +13,9 @@ Este proyecto analiza 40,000 registros de usuarios cruzando tres datasets: plane
 - Detectar patrones de comportamiento extremo (power users)
 - Generar recomendaciones para optimización de planes y estrategia comercial
 
-## 📊 Hallazgos Clave
-
-- **42-44%** de datos de actividad faltantes (duration y length)
-- Segmentación bimodal: usuarios jóvenes ocasionales vs adultos mayores muy activos
-- **30-40%** de usuarios son power users (alto consumo de minutos/llamadas)
-- Adultos mayores Premium generan **3x más ingresos** que usuarios Básico
-
-## 💡 Recomendaciones
-
-Crear planes intermedios (Básico Plus), especializar Premium para adultos mayores, y lanzar planes para power users (Heavy Callers, Heavy Texters).
-
 ## 🛠️ Stack
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter
+
+##Abrir Notebook
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1WlA5HRDbqXWvGzhWuuUn7BS3APD6H4XU?usp=sharing)
