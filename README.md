@@ -18,4 +18,4 @@ Este proyecto analiza 40,000 registros de usuarios cruzando tres datasets: plane
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter
 
 ##Abrir Notebook
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1WlA5HRDbqXWvGzhWuuUn7BS3APD6H4XU?usp=sharing)
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1Od3dXUQZvDz1lIMEGLcig3bhL0MEHoCE?usp=sharing)
